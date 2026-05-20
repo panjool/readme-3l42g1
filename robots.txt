@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://panjool.github.io/readme-3l42g1/sitemap.xml
